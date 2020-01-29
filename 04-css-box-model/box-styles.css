@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  background-color: #dde0e3; /* Light gray */
+  margin-bottom: 50px;
+}
+
+h1 {
+  padding: 50px 20px;
+  border-bottom: 1px solid #5d6063;
+}
+
+em,
+strong {
+  background-color: #b2d6ff;
+  display: inline;
+}
+
+div {
+  color: #fff;
+  background-color: #5995da;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #5d6063;
+  border-radius: 5px;
+  width: 200px;
+  box-sizing: border-box;
+  margin: 20px auto; /* Vertical  Horizontal */
+}
+
+body {
+  text-align: center; /*只对齐文字，body.div不会移到中间*/
+}

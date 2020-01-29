@@ -1,0 +1,23 @@
+body {
+  color: #414141; /* Dark gray */
+  background-color: #eeeeee; /* Light gray */
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 2em; /* 2*18px */
+}
+
+h2 {
+  font-size: 1.6em; /* 2*1.6px */
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-weight: normal;
+}
